@@ -20,7 +20,7 @@ Model Accuracy Comparison,
 ROC-AUC Curves
 
 ## Tools & Technologies
-Python
-Pandas, NumPy
+Python,
+Pandas, NumPy,
 Matplotlib / Seaborn
 
